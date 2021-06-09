@@ -1,0 +1,36 @@
+body {
+    background-image: linear-gradient( burlywood, white, chocolate);
+    background-size: 100%;
+    ;
+}
+
+input {
+    width: 1500px;
+    height: 900px;
+}
+
+div.heading {
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 6px 6px rgb(77, 73, 73);
+    font-family: cursive;
+    font-size: 60px;
+}
+
+div.imageGallery {
+    margin: 4px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 4px;
+    align-items: center;
+    margin: 4px;
+    float: left;
+    border: 5px solid black;
+    width: 400px;
+    height: 400px;
+}
+
+#allimg {
+    margin-left: 120px;
+}
